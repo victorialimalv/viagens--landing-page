@@ -6,4 +6,4 @@ Este é um projeto de uma landing page voltada para amantes de viagens.
 
 ## Tecnologias Utilizadas
 
-<b>Frontend:</b> HTML, CSS, JavaScript
+<b>Frontend:</b> HTML, CSS
